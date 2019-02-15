@@ -25,7 +25,7 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              After spending years and <span className="highlight"> YEARS</span> working on accounting, it sas time to transition into something more challenging. As an artist, I always have this desire to build pretty things. I realized that becoming a developer would give me the tools in order to <span className="highlight"> create that next beautiful site.</span>
+              After spending years and <span className="highlight"> YEARS</span> working on accounting, it was time to transition into something more challenging. As an artist, I always have this desire to build pretty things. I realized that becoming a developer would give me the tools in order to <span className="highlight"> create that next beautiful site.</span>
             </p>
             <p>
               I started translating websites to spanish and that was my entrance  {' '}
