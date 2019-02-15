@@ -2,7 +2,7 @@
   "name": "hNorza-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nzytag,github.io/nzytag",
+  "homepage": "https://nzytag.github.io/nzytag",
   "scripts": {
     "start": "node scripts/start.js",
     "start:prod": "ENV=prod node scripts/start.js",
